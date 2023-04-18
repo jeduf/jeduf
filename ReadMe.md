@@ -1,5 +1,5 @@
 ## About Me:
-###💬 I'm a passionate game developer worked on hyper-casual and casual games, as well as prototyping several PC games.
+### 💬 I'm a passionate game developer worked on hyper-casual and casual games, as well as prototyping several PC games.
 
 
 ## 🌐 Socials:
